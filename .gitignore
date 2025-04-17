@@ -1,0 +1,6 @@
+.DS_Store
+
+askdex_spring/.env
+
+askdex_react/node_modules
+askdex_react/.venv
